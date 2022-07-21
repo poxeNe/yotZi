@@ -6,6 +6,8 @@
         - new scoring options rather than like yahtzee?
     - dedicated webpage and ui?
         - yotZi.poxeNe.com
+    - RPG where you use roll/scoring results as attacks and damage values?
+        - e.g. full-house casts a spell, "yahtzee" is a big critical hit, etc.
 
 #### DONE:
     - ~~create random dice roller~~
