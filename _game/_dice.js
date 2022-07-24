@@ -151,6 +151,18 @@ function rollDice() {
             } else {
 
                 console.log(`Final roll: ${dice_pool}`);
+                alert(
+
+                    `
+                    Your final results are:
+                        Die #1: ${dice_pool[0]}.
+                        Die #2: ${dice_pool[1]}.
+                        Die #3: ${dice_pool[2]}.
+                        Die #4: ${dice_pool[3]}.
+                        Die #5: ${dice_pool[4]}.
+                    `
+    
+                );
 
             };
 
